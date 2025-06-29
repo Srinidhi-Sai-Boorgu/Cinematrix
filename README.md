@@ -1,7 +1,11 @@
 # Cinematrix
 A course project for CS 257 - Database & Information Systems. Cinematrix is a DBMS that gives a user convenient access to information related to their favourite movies, TV shows, and celebrities.
 
-Made by
+
+<div align="center">
+
+  
+Members Involved:
 | Name         | Roll No |
 |--------------|---------|
 | Aman Gupta        | 230001006     |
@@ -9,8 +13,8 @@ Made by
 | Abhinav Bitragunta     | 230001003     |
 | Ansh Jain     | 230004005     |
 
+Technologies Used:
 
-The website used the following technologies:
 | Front-end         | Back-end |
 |--------------|---------|
 | HTML/CSS        | Node.js     |
@@ -18,6 +22,7 @@ The website used the following technologies:
 | Bootstrap     | EJS Templating engine     |
 | Tailwind CSS     |  MySQL(for database)   |
 
+</div>
 
 ## Features
 
